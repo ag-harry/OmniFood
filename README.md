@@ -15,3 +15,13 @@ PLAN SITE MAP
 DEFINE Personality
 1. Tech Health centered audience
 2. Startup and upbeat personalities 
+
+SCREENSHOTS:::
+
+![Title Page](screenshots/01.jpg)
+![App Functionality](screenshots/02.jpg)
+![App Functionality](screenshots/03.jpg)
+![Recipe](screenshots/04.jpg)
+![Testimonials](screenshots/05.jpg)
+![Subscriptions](screenshots/06.jpg)
+![Signup Form](screenshots/07.jpg)
