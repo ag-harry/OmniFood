@@ -1,5 +1,5 @@
 DEFINE PROJECT
-1. For Omnifood Company::: CLIENT
+1. For Omnifood Company
 WHAT for
 2. Business goal: to sell monthly food sub
 3. User goal: Eating healthy, time saver, cost effective
@@ -15,7 +15,3 @@ PLAN SITE MAP
 DEFINE Personality
 1. Tech Health centered audience
 2. Startup and upbeat personalities 
-
-SKETCH SITE MAP
-1. Find site examples and layouts that fit the content
-2. Sketch landing page layout
