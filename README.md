@@ -1,5 +1,5 @@
 Live site hosted through Netlify:
-https://omnifood-hg.netlify.app
+https://omnifoodhg.netlify.app
 
 DEFINE PROJECT
 1. For Omnifood Company
